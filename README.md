@@ -1,5 +1,7 @@
 Tutorial at https://www.tutorialspoint.com/angular_googlecharts/angular_googlecharts_quick_guide.htm
 
+npm install angular-google-charts
+
 # GoogleCharts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
